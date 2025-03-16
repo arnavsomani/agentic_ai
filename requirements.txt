@@ -1,0 +1,19 @@
+langchain
+numpy
+pandas
+python-dotenv
+langchain-openai
+langchain-community
+bs4
+faiss-cpu
+langchain-core
+pypdf # load pdf files
+arxiv # load web site
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
+langchain-groq
+langgraph
+langgraph-cli[inmem]
+streamlit
